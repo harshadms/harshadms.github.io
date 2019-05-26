@@ -15,7 +15,7 @@ redirect_from:
 
 ### Recent News
 
-* April 13, 2019 - Poster and Demo proposal on Wireless Attacks on Aircraft Instrument Landing Systems accepted at ACM WiSec 2019 
+* April 13, 2019 - Poster and Demo proposal on Wireless Attacks on Aircraft Instrument Landing Systems accepted at ACM WiSec 2019
 * March 22, 2019 - Paper on Wireless Attacks on Aircraft Instrument Landing Systems accepted at Usenix Security 2019
 * March 22, 2019 - Presented a poster and a demo at NESD '19 - UMass Amherst
 * January 07, 2019 - Started as a Teaching Assistant for <a href="https://aanjhan.com/teaching/courses/spring19/index.html"> CS 4710/6710 Wireless and Mobile Systems </a>
