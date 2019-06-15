@@ -14,3 +14,4 @@
 * http://debuglies.com/2019/05/17/researchers-demonstrated-how-conduct-wireless-attacks-on-aircraft-landing-systems/
 * https://www.f3nws.com/news/the-radio-navigation-planes-use-to-land-safely-is-insecure-and-can-be-hacked-e8875bfa3b9
 * https://newsvire.com/the-radio-navigation-planes-use-to-land-safely-is-insecure-and-can-be-hacked/
+* https://www.rtl-sdr.com/tag/instrument-landing-system/

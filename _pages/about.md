@@ -15,6 +15,7 @@ redirect_from:
 
 ### Recent News
 
+* June 14, 2019 - Received best poster award "Wireless Attacks on Aircraft Instrument Landing Systems" at NEWSDR 2019, Boston MA, USA
 * May 17, 2019 - Received best poster/demo award for "Wireless Attacks on Aircraft Instrument Landing Systems" at ACM WiSec 2019, Miami FL, USA
 * May 16, 2019 - Presented a poster and a demo at ACM WiSec 2019, Miami, FL, USA
 * April 13, 2019 - Poster and Demo proposal on Wireless Attacks on Aircraft Instrument Landing Systems accepted at ACM WiSec 2019 
