@@ -1,5 +1,6 @@
 ### Media coverage
 
+* https://news.northeastern.edu/2019/06/17/northeastern-university-researchers-show-that-hacking-an-airplanes-landing-instruments-isnt-as-hard-as-it-should-be/
 * https://arstechnica.com/information-technology/2019/05/the-radio-navigation-planes-use-to-land-safely-is-insecure-and-can-be-hacked/?comments=1
 * https://techxplore.com/news/2019-05-aircraft-spoofing-zone.html
 * https://securityledger.com/2019/05/researchers-hack-aircraft-landing-system-with-600-radios/
