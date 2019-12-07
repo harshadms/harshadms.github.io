@@ -15,6 +15,9 @@ redirect_from:
 
 ### Recent News
 
+* November 19, 2019 - Invited to demonstrate my work on Aircraft Landing Systems at CYD Campus Aviation Cyber Security Conference - armasuisse, Zurich, Switzerland
+* August 14, 2019 - Presented a paper titled "Wireless Attacks on Aircraft Instrument Landing Systems" at USENIX 2019, Santa Clara CA, USA
+* August 10, 2019 - Presented my work on Aircraft Landing Systems at Aviation Village @ DEFCON, Las Vegas NV, USA
 * June 14, 2019 - Received best poster award "Wireless Attacks on Aircraft Instrument Landing Systems" at NEWSDR 2019, Boston MA, USA
 * May 17, 2019 - Received best poster/demo award for "Wireless Attacks on Aircraft Instrument Landing Systems" at ACM WiSec 2019, Miami FL, USA
 * May 16, 2019 - Presented a poster and a demo at ACM WiSec 2019, Miami, FL, USA
