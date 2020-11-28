@@ -14,7 +14,7 @@ redirect_from:
 * My research interests are around wireless systems security, specifically sophisticated navigation systems that are available today. Given the heavy reliance on such crucial systems which are responsible for safe and secure transportation, it is imperative that they must have sound security systems to ensure protection against malicious actors
 
 ### Recent News
-
+* October 24, 2020 - Gave a TEDx talk at TEDxNortheasternU titled "Securing Skies: Propelling Cybersecurity in Aviation"
 * July 10, 2020 - Received best poster award "SemperFi: A Spoofer Eliminating Standalone GPS Receiver", ACM WiSec 2020, Virtual Event
 * July 9, 2020 - Presented a poster and a demo at ACM WiSec 2020, Virtual Event
 * November 19, 2019 - Invited to demonstrate my work on Aircraft Landing Systems at CYD Campus Aviation Cyber Security Conference - armasuisse, Zurich, Switzerland
