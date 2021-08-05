@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: ""
+title: "GSOC 21"
 permalink: /gsoc21/
 author_profile: false
 ---
