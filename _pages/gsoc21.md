@@ -1393,6 +1393,14 @@ author_profile: false
             attacks. This GSOC project aims at implementing well-known physical and logical layer solutions in GNSS-SDR,
             an open-source software-defined </span><span class="c10 c11">receiver</span><span class="c0">&nbsp;that
             provides signal processing software for multiple satellite navigation systems.</span></p>
+    <p class="c7 c8"><span class="c0"></span></p>
+    <p class="c7"><span class="c10">
+            Find the repository
+            <a target="_blank" rel="noopener noreferrer"
+                href="https://github.com/harshadms/gsoc_21_gnss-sdr/tree/gsoc_21_sd"> here</a> all the files mentioned
+            in
+            this document consider this repository as the base directory
+        </span></p>
     <h2 class="c3" id="h.vrg6okgzrc6r"><span class="c18 c10">Overview of anti-spoofing techniques:</span></h2>
     <p class="c7"><span class="c0">This project focuses on three categories of anti-spoofing techniques to detect GNSS
             spoofing attacks.</span></p>
