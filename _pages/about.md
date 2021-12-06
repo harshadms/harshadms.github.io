@@ -14,6 +14,8 @@ redirect_from:
 * My research interests are around wireless systems security, specifically sophisticated navigation systems that are available today. Given the heavy reliance on such crucial systems which are responsible for safe and secure transportation, it is imperative that they must have sound security systems to ensure protection against malicious actors
 
 ### Recent News
+* October 20, 2021 - Paper titled "SemperFi: Anti-spoofing GPS Receiver for UAVs" accepted at NDSS 2022
+* April 27 2021 - Invited to talk about wireless attacks on ILS at Seventh  Meeting  of  the Navigation Systems Panel Joint Working Groups (JWGs/7) - *EuroControl*, Virtual Event
 * October 24, 2020 - Gave a TEDx talk at TEDxNortheasternU titled "Securing Skies: Propelling Cybersecurity in Aviation"
 * July 10, 2020 - Received best poster award "SemperFi: A Spoofer Eliminating Standalone GPS Receiver", ACM WiSec 2020, Virtual Event
 * July 9, 2020 - Presented a poster and a demo at ACM WiSec 2020, Virtual Event
@@ -23,8 +25,8 @@ redirect_from:
 * June 14, 2019 - Received best poster award "Wireless Attacks on Aircraft Instrument Landing Systems" at NEWSDR 2019, Boston MA, USA
 * May 17, 2019 - Received best poster/demo award for "Wireless Attacks on Aircraft Instrument Landing Systems" at ACM WiSec 2019, Miami FL, USA
 * May 16, 2019 - Presented a poster and a demo at ACM WiSec 2019, Miami, FL, USA
-* April 13, 2019 - Poster and Demo proposal on Wireless Attacks on Aircraft Instrument Landing Systems accepted at ACM WiSec 2019 
-* March 22, 2019 - Paper on "Wireless Attacks on Aircraft Instrument Landing Systems" accepted at Usenix Security 2019
+* April 13, 2019 - Poster and Demo proposal on "Wireless Attacks on Aircraft Instrument Landing System"s accepted at ACM WiSec 2019 
+* March 22, 2019 - Paper titled "Wireless Attacks on Aircraft Instrument Landing Systems" accepted at Usenix Security 2019
 * March 22, 2019 - Presented a poster and a demo at NESD '19 - UMass Amherst
 * January 07, 2019 - Started as a Teaching Assistant for <a href="https://aanjhan.com/teaching/courses/spring19/index.html"> CS 4710/6710 Wireless and Mobile Systems </a>
 * January 07, 2019 - Started as a PhD student at Northeastern University, Boston, USA
