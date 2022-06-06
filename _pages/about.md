@@ -14,7 +14,7 @@ redirect_from:
 * My research interests are around wireless systems security, specifically sophisticated navigation systems that are available today. Given the heavy reliance on such crucial systems which are responsible for safe and secure transportation, it is imperative that they must have sound security systems to ensure protection against malicious actors
 
 ### Recent News
-* May 20, 2021 - Paper titled “An Experimental Study of GPS Spoofing and Takeover Attacks on UAVs” accepted at Usenix Security 2022
+* May 20, 2022 - Paper titled “An Experimental Study of GPS Spoofing and Takeover Attacks on UAVs” accepted at Usenix Security 2022
 * October 20, 2021 - Paper titled "SemperFi: Anti-spoofing GPS Receiver for UAVs" accepted at NDSS 2022
 * April 27 2021 - Invited to talk about wireless attacks on ILS at Seventh  Meeting  of  the Navigation Systems Panel Joint Working Groups (JWGs/7) - *EuroControl*, Virtual Event
 * October 24, 2020 - Gave a TEDx talk at TEDxNortheasternU titled "Securing Skies: Propelling Cybersecurity in Aviation"
