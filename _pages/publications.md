@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ### Publications
+[4] **On the Implications of Spoofing and Jamming Aviation Datalink Applications**
+<br> *Harshad Sathaye*, Aanjhan Ranganathan, Guevara Noubir
+<br>In Proceedings of Annual Computer Security Applications Conference (**ACSAC 22, to apear**) 
+
 [3] **An Experimental Study of GPS Spoofing and Takeover Attacks on UAVs** <a href="https://www.usenix.org/system/files/sec22-sathaye.pdf" class="label label-primary">Paper</a> <a href="https://www.youtube.com/watch?v=4vfqoYXSHRY&list=PL-odc_k0Tz2hiypDSqLw0-L1GMp9r5n73&index=9" class="label label-danger">Video</a>
 <br>*Harshad Sathaye*, Martin Strohmeier, Vincent Lenders, Aanjhan Ranganathan
 <br>In Proceedings of 31st USENIX Security Symposium (**USENIX Security 22**)
