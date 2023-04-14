@@ -15,6 +15,11 @@ redirect_from:
 
 ### Recent News
 
+* April 13, 2023 - Extended abstract titled "Galileo-SDR-SIM: An Open-Source Tool for Generating Galileo Satellite Signals" accepted @ ION GNSS+ 2023, Denver, CO
+* April 11, 2023 - Paper titled "Location-independent GNSS Relay Attacks: A Lazy Attacker's Guide to Bypassing Navigation Message Authentication" accept @ Wisec 2023
+* April 4, 2023 - Defended my doctoral dissertation titled "Towards Secure Autonomous Aerial Vehicle Navigation"
+* December 8, 2022 - Presented a paper titled "On Implications of Spoofing and Jamming Aviation Datalink Applications" @ ACSAC 2022, Austin TX, USA
+* September 19, 2022 - Proposed doctoral dissertation titled "Towards Secure Autonomous Aerial Vehicle Navigation"
 * September 1, 2022 - Paper titled "On Implications of Spoofing and Jamming Aviation Datalink Applications" accepted at ACSAC 2022, Austin TX, USA
 * August 12, 2022 - Presented a paper titled "An Experimental Study of GPS Spoofing and Takeover Attacks on UAVs" at USENIX 2022, Boston MA, USA
 * July 6, 2022 - Presented my work on GPS spoofing and takeover attacks on UAVs @ armasuisse Cyber-Alp retreat, Sachseln, Switzerland 
