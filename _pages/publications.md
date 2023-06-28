@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### Publications
-[6] **Galileo-SDR-SIM: An Open-Source Tool for Generating Galileo Satellite Signals**
+[7] **Galileo-SDR-SIM: An Open-Source Tool for Generating Galileo Satellite Signals**
 <br>*Harshad Sathaye*, Maryam Motallebighomi, Aanjhan Ranganathan
 <br>Extended Abstract @ ION GNSS+ 2023 (**To appear**)
 
