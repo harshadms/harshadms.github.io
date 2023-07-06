@@ -14,12 +14,12 @@ author_profile: true
 <br> PhD Dissertation, Northeastern University Boston, USA
 
 [5] **Location-independent GNSS Relay Attacks: A Lazy Attacker's Guide to Bypassing Navigation Message Authentication**
-<!-- <a href="https://dl.acm.org/doi/abs/10.1145/3564625.3564651" class="label label-primary">Paper</a> -->
+<a href="/files/motallebighomi23-gnssrelay.pdf" class="label label-primary">Paper</a> <a href="https://www.youtube.com/watch?v=4vfqoYXSHRY&list=PL-odc_k0Tz2hiypDSqLw0-L1GMp9r5n73&index=9](https://www.youtube.com/watch?v=ylTpEsTCczs&ab_channel=relay_attack_OSNMA)" class="label label-danger">Video</a> <a href="https://www.gnssrelayattack.com/" style="text-decoration:none;" class="label label-website">Website</a>
 <br> Maryam Motallebighomi, *Harshad Sathaye*, Mridula Sigh, Aanjhan Ranganathan
-<br>In Proceedings of Annual Computer Security Applications Conference (**Wisec 23, to appear**) 
+<br>In Proceedings of Annual Computer Security Applications Conference (**Wisec 23**) 
 
 [4] **On the Implications of Spoofing and Jamming Aviation Datalink Applications**
-<a href="https://dl.acm.org/doi/abs/10.1145/3564625.3564651" class="label label-primary">Paper</a>
+<a href="/files/sathaye22_acsac.pdf" class="label label-primary">Paper</a>
 <br> *Harshad Sathaye*, Aanjhan Ranganathan, Guevara Noubir
 <br>In Proceedings of Annual Computer Security Applications Conference (**ACSAC 22**) 
 
