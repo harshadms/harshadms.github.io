@@ -9,7 +9,7 @@ author_profile: true
 <br>*Harshad Sathaye*, Maryam Motallebighomi, Aanjhan Ranganathan
 <br>Extended Abstract @ ION GNSS+ 2023 (**To appear**)
 
-[6] **Towards Secure Autonomous Aerial Vehicle Navigation**
+[6] **Towards Secure Autonomous Aerial Vehicle Navigation** <a href="/files/phd-dissertation.pdf" class="label label-primary">Full-document</a>
 <br> *Harshad Sathaye*
 <br> PhD Dissertation, Northeastern University Boston, USA
 
