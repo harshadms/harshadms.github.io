@@ -10,11 +10,11 @@ redirect_from:
 
 ### About me
 
-* I'm a Ph.D. student at Northeastern University, Boston, USA.
-* My research interests are around wireless systems security, specifically sophisticated navigation systems that are available today. Given the heavy reliance on such crucial systems which are responsible for safe and secure transportation, it is imperative that they must have sound security systems to ensure protection against malicious actors
+* I'm a post-doctoral researcher at ETH Zurich, Switzerland.
+* My research interests are wireless and cyber-physical security, focusing on fortifying aviation and satellite navigation systems and addressing critical security concerns to enhance safety. 
 
 ### Recent News
-
+* June 14, 2023 - Started as a Post-doctoral Researcher at ETH Zurich, Switzerland
 * April 13, 2023 - Extended abstract titled "Galileo-SDR-SIM: An Open-Source Tool for Generating Galileo Satellite Signals" accepted @ ION GNSS+ 2023, Denver, CO
 * April 11, 2023 - Paper titled "Location-independent GNSS Relay Attacks: A Lazy Attacker's Guide to Bypassing Navigation Message Authentication" accept @ Wisec 2023
 * April 4, 2023 - Defended my doctoral dissertation titled "Towards Secure Autonomous Aerial Vehicle Navigation"
