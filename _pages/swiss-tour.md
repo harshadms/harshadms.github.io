@@ -1,11 +1,10 @@
 ---
 layout: compress
 title: "Swiss Biking Tour"
-permalink: /swiss-tour/
+permalink: /swisstour/
 author_profile: false
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
     
