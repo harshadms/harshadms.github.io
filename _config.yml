@@ -83,12 +83,12 @@ google_analytics   : UA-137721006-1
 author:
   name             : "Harshad Sathaye"
   avatar           : "profile.jpg"
-  bio              : "<b>Research Assistant</b> <br> Khoury College of Computer Sciences @ Northeastern University"
-  location         : "Boston MA, USA"
+  bio              : "<b>Postdoctoral Researcher</b> <br> ETH Zurich"
+  location         : "Zurich, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "sathaye.h@northeastern.edu"
+  email            : "harshad.sathaye@inf.ethz.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
