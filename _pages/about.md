@@ -14,9 +14,10 @@ redirect_from:
 * My research interests are wireless and cyber-physical security, focusing on fortifying aviation and satellite navigation systems and addressing critical security concerns to enhance safety. 
 
 ### Recent News
+* January 29, 2025 - Paper titled "GNSS-WASP: GNSS Wide Area SPoofing" accepted at Usenix Security 2025, Seattle WA, USA  
 * June 14, 2023 - Started as a Post-doctoral Researcher at ETH Zurich, Switzerland
 * April 13, 2023 - Extended abstract titled "Galileo-SDR-SIM: An Open-Source Tool for Generating Galileo Satellite Signals" accepted @ ION GNSS+ 2023, Denver, CO
-* April 11, 2023 - Paper titled "Location-independent GNSS Relay Attacks: A Lazy Attacker's Guide to Bypassing Navigation Message Authentication" accept @ Wisec 2023
+* April 11, 2023 - Paper titled "Location-independent GNSS Relay Attacks: A Lazy Attacker's Guide to Bypassing Navigation Message Authentication" accepted @ Wisec 2023
 * April 4, 2023 - Defended my doctoral dissertation titled "Towards Secure Autonomous Aerial Vehicle Navigation"
 * December 8, 2022 - Presented a paper titled "On Implications of Spoofing and Jamming Aviation Datalink Applications" @ ACSAC 2022, Austin TX, USA
 * September 19, 2022 - Proposed doctoral dissertation titled "Towards Secure Autonomous Aerial Vehicle Navigation"
@@ -25,7 +26,7 @@ redirect_from:
 * July 6, 2022 - Presented my work on GPS spoofing and takeover attacks on UAVs @ armasuisse Cyber-Alp retreat, Sachseln, Switzerland 
 * May 20, 2022 - Paper titled “An Experimental Study of GPS Spoofing and Takeover Attacks on UAVs” accepted at Usenix Security 2022
 * October 20, 2021 - Paper titled "SemperFi: Anti-spoofing GPS Receiver for UAVs" accepted at NDSS 2022
-* April 27 2021 - Invited to talk about wireless attacks on ILS at Seventh  Meeting  of  the Navigation Systems Panel Joint Working Groups (JWGs/7) - *EuroControl*, Virtual Event
+* April 27, 2021 - Invited to talk about wireless attacks on ILS at Seventh  Meeting  of  the Navigation Systems Panel Joint Working Groups (JWGs/7) - *EuroControl*, Virtual Event
 * October 24, 2020 - Gave a TEDx talk at TEDxNortheasternU titled "Securing Skies: Propelling Cybersecurity in Aviation"
 * August 24, 2020 - Gave two talks, "GPS Spoofing 101" and "A Deeper Dive into ILS and ADS B Spoofing" @ DEFCON Safe Mode Aerospace Village 2020
 * July 10, 2020 - Received best poster award "SemperFi: A Spoofer Eliminating Standalone GPS Receiver", ACM WiSec 2020, Virtual Event
